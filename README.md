@@ -2,15 +2,15 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Olá! 
+Vou apresentar uma lista de alimentos fit para auxiliar na manutenção de uma alimentação saudavel e fáceis de fazer em casa mesmo.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: vou utilizar o Chat GPT para obter informações sobre alimentos naturais e nutritivos. 
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
@@ -20,23 +20,148 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic: Alimentação Saudável, simples assim!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vou colocar aqui algumsa informações sobre alimentação natural, para pessoas que querem ter acesso a esse tipo de alimento  e mostrar que podem ser preparados pratos simples e saborosos, de maneira fácil, mesmo para quem não tem muita familiaridade com a cozinha.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizdo chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Ola. Eu preciso criar 5 receitas de alimentos naturais faceis de serem preparadas, mesmo por pessoas que não sabem cozinhar. Precisa ter ingredientes como verduras, legumes dos mais diversos tipos. Pode ter carne e carboidratos em pequenas quantidades. os pratos precisam conter no minimo 5 elementos variados e priozirar uma boa nutrição.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O chat GPT criou as 5 receitas solicitadas.
+Claro! Vou te ajudar com cinco receitas que são fáceis de preparar, mesmo para quem não tem muita experiência na cozinha. Todas elas incluem verduras, legumes e uma pequena quantidade de carne e carboidratos, além de priorizarem uma boa nutrição.
+
+Receita 1: Salada Colorida com Frango Grelhado
+Ingredientes:
+
+Alface
+
+Tomate
+
+Cenoura ralada
+
+Pepino
+
+Frango grelhado (pequenas tiras)
+
+Quinoa cozida
+
+Modo de preparo:
+
+Lave e corte todos os vegetais.
+
+Grelhe o frango e corte-o em tiras.
+
+Misture todos os ingredientes em uma tigela e tempere a gosto.
+
+Receita 2: Wrap de Vegetais com Carne Moída
+Ingredientes:
+
+Pão folha (tipo wrap)
+
+Alface
+
+Cenoura ralada
+
+Pimentão fatiado
+
+Abobrinha ralada
+
+Carne moída (uma pequena quantidade)
+
+Hummus (para espalhar no pão)
+
+Modo de preparo:
+
+Cozinhe a carne moída até que esteja bem cozida.
+
+Lave e prepare os vegetais.
+
+Espalhe o hummus no pão folha, adicione os vegetais e a carne moída.
+
+Enrole o wrap e aproveite!
+
+Receita 3: Macarrão Integral com Legumes e Tiras de Carne
+Ingredientes:
+
+Macarrão integral
+
+Brócolis
+
+Cenoura em rodelas
+
+Pimentão em tiras
+
+Cogumelos fatiados
+
+Carne (em pequenas tiras)
+
+Modo de preparo:
+
+Cozinhe o macarrão integral conforme as instruções da embalagem.
+
+Refogue os legumes e as tiras de carne até estarem macios.
+
+Misture o macarrão com os legumes e a carne, tempere a gosto e sirva.
+
+Receita 4: Omelete de Vegetais
+Ingredientes:
+
+Ovos
+
+Espinafre
+
+Tomate em cubos
+
+Pimentão picado
+
+Cebola picada
+
+Queijo (em pequena quantidade)
+
+Modo de preparo:
+
+Bata os ovos em uma tigela.
+
+Acrescente os vegetais e o queijo.
+
+Cozinhe a mistura em uma frigideira até estar bem cozida e dourada.
+
+Receita 5: Sopa de Legumes com Frango Desfiado
+Ingredientes:
+
+Batata
+
+Cenoura
+
+Abobrinha
+
+Couve-flor
+
+Frango desfiado (em pequena quantidade)
+
+Caldo de galinha
+
+Modo de preparo:
+
+Corte todos os legumes em pedaços pequenos.
+
+Cozinhe os legumes no caldo de galinha até que estejam macios.
+
+Adicione o frango desfiado e deixe cozinhar mais alguns minutos.
+
+Tempere a gosto e sirva quente.
+
+Espero que essas receitas sejam úteis! Todas são nutritivas e fáceis de preparar. Aproveite! 🍽️
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Eu não utilizava o Chat GPT ou outra tecnologia para criar conteudos.  Achei muito bom.
 
 ### Exemplos e Insigths
 
@@ -46,6 +171,3 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
